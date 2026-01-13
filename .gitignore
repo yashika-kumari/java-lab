@@ -1,0 +1,3 @@
+# Ignore specific files in this folder
+__init__.py
+start.java
