@@ -1,5 +1,6 @@
 package com.company;
 
+// Finds the maximum element in the array
 public class MaxInArray {
     public static void main(String[] args) {
         int[] nums = {10,20,5,16,25};
