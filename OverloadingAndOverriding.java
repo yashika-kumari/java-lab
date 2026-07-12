@@ -22,6 +22,7 @@ public class OverloadingAndOverriding extends Overloading {
         // Overloading (compile time)
         System.out.println(obj1.multiply(2, 3));        // 6
         System.out.println(obj1.multiply(2, 3, 4));     // 24
+        System.out.println(obj1.multiply(5, 4, 2));
 
         // Overriding (runtime)
         System.out.println(obj2.multiply(2, 3));        // 16
